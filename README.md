@@ -1,1 +1,1 @@
-# Simon-Saya-Game
+# Simon-Says-Game
